@@ -23,7 +23,7 @@ config.specs = [
 // ==================
 config.capabilities = [
     {
-        'appium:platformName': 'Android',
+        platformName: 'Android',
         'appium:platformVersion': '12.0',
         'appium:deviceName': 'Pixel 4',
         'appium:automationName': 'UIAutomator2',
