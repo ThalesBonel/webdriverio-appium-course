@@ -25,7 +25,7 @@ config.capabilities = [
     {
         platformName: 'Android',
         'appium:platformVersion': '12.0',
-        'appium:deviceName': 'Pixel 6',
+        'appium:deviceName': 'Google Pixel 6',
         'appium:automationName': 'UIAutomator2',
         'appium:app': 'bs://f0de2d7c800e7edf4475a86570bf76e9923cc506',
         'appium:autoGrantPermissions': true
